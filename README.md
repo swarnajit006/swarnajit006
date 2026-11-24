@@ -1,10 +1,9 @@
 <div align="center">
 
-  <!-- Greeting Header -->
-<div align="center">
-
+  <!-- Profile Photo -->
   <img src="./profile.jpg" alt="Swarnajit Paul" width="160" height="160" />
 
+  <!-- Greeting Header -->
   <h1>Hi, I'm Swarnajit Paul 👋</h1>
 
   <!-- Animated Typing Subtitle (Generated via readme-typing-svg) -->
@@ -15,16 +14,13 @@
   <br/>
 
   <!-- Social & Coding Profile Badges -->
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-1E293B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
   <a href="https://www.linkedin.com/in/swarnajit-paul-b21b26329/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:swarnajit006@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://leetcode.com/u/your-username" target="_blank">
+  <a href="https://leetcode.com/u/ycB9cdSFvh/" target="_blank">
     <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 
@@ -50,15 +46,4 @@ Having a mathematics foundation means I approach software engineering from first
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frameworks & Tools**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](
