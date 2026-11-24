@@ -1,6 +1,10 @@
 <div align="center">
 
   <!-- Greeting Header -->
+<div align="center">
+
+  <img src="./profile.jpg" alt="Swarnajit Paul" width="160" height="160" />
+
   <h1>Hi, I'm Swarnajit Paul 👋</h1>
 
   <!-- Animated Typing Subtitle (Generated via readme-typing-svg) -->
